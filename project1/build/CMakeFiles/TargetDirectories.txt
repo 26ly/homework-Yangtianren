@@ -1,0 +1,5 @@
+/home/ytr20081001/code/project1/build/CMakeFiles/edit_cache.dir
+/home/ytr20081001/code/project1/build/CMakeFiles/rebuild_cache.dir
+/home/ytr20081001/code/project1/build/src/CMakeFiles/Matrixproject1.dir
+/home/ytr20081001/code/project1/build/src/CMakeFiles/edit_cache.dir
+/home/ytr20081001/code/project1/build/src/CMakeFiles/rebuild_cache.dir

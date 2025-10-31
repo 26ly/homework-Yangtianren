@@ -1,0 +1,5 @@
+/home/ytr20081001/code/project3/build/CMakeFiles/edit_cache.dir
+/home/ytr20081001/code/project3/build/CMakeFiles/rebuild_cache.dir
+/home/ytr20081001/code/project3/build/src/CMakeFiles/Noiseproject3_app.dir
+/home/ytr20081001/code/project3/build/src/CMakeFiles/edit_cache.dir
+/home/ytr20081001/code/project3/build/src/CMakeFiles/rebuild_cache.dir

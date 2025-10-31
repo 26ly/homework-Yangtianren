@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Matrixproject1.dir/main.cpp.o CMakeFiles/Matrixproject1.dir/Matrix.cpp.o CMakeFiles/Matrixproject1.dir/MyException.cpp.o -o Matrixproject1 
